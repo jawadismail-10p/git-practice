@@ -1,2 +1,3 @@
-//First script
-//Second comment
+const x = async () => {
+    console.log('First commit');
+}
